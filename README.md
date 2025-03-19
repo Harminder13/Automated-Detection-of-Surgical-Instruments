@@ -1,5 +1,3 @@
-Here’s a draft for your GitHub description:
-
 ---
 
 # 🏥 **Automated Surgical Instrument Detection with YOLOv8 and YOLOv11**  
