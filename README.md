@@ -1,4 +1,4 @@
-# 🏥 **Machine Learning System for Automated Detection of Surgical Instruments**  
+# **Machine Learning System for Automated Detection of Surgical Instruments**  
 
 This project focuses on the **real-time detection and classification of surgical instruments** using advanced object detection models: **YOLOv8** and **YOLOv11**. Accurate identification and tracking of surgical instruments are essential for ensuring patient safety and improving operational efficiency in medical procedures. Traditional manual methods are prone to human error — our solution leverages state-of-the-art YOLO models to automate and enhance the process.
 
