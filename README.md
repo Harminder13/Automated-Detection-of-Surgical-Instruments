@@ -23,14 +23,14 @@ Surgical procedures rely on the precise identification and tracking of instrumen
 ---
 
 ## 📊 **Results**
-### 🔥 YOLOv8 Performance:
+### YOLOv8 Performance:
 - F1-Score: **0.96**  
 - Mean Average Precision (mAP): **0.988**  
 
 ![YOLOv8 F1 Curve](./images/yolov8_f1_curve.png)  
 ![YOLOv8 Precision-Recall Curve](./images/yolov8_precision_recall.png)  
 
-### 🌟 YOLOv11 Performance:
+### YOLOv11 Performance:
 - F1-Score: **0.98**  
 - Mean Average Precision (mAP): **0.991**  
 
@@ -58,6 +58,6 @@ This project successfully demonstrates the potential of YOLO-based models for re
 
 ---
 
-✨ **Feel free to explore the code and contribute!**  
+**Feel free to explore the code and contribute!**  
 
 ---
