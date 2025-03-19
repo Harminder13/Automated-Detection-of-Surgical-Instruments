@@ -51,7 +51,3 @@ Surgical procedures rely on the precise identification and tracking of instrumen
 This project successfully demonstrates the potential of YOLO-based models for real-time surgical tool detection. With high mAP and F1 scores, the models show promise for real-world deployment in surgical environments — paving the way for improved accuracy, operational efficiency, and patient safety.
 
 ---
-
-**Feel free to explore the code and contribute!**  
-
----
