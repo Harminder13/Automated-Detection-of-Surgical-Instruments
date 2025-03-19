@@ -65,5 +65,3 @@ This project successfully demonstrates the potential of YOLO-based models for re
 ✨ **Feel free to explore the code and contribute!**  
 
 ---
-
-Let me know if you'd like to modify or add anything!
