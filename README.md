@@ -27,15 +27,9 @@ Surgical procedures rely on the precise identification and tracking of instrumen
 - F1-Score: **0.96**  
 - Mean Average Precision (mAP): **0.988**  
 
-![YOLOv8 F1 Curve](./images/yolov8_f1_curve.png)  
-![YOLOv8 Precision-Recall Curve](./images/yolov8_precision_recall.png)  
-
 ### YOLOv11 Performance:
 - F1-Score: **0.98**  
 - Mean Average Precision (mAP): **0.991**  
-
-![YOLOv11 F1 Curve](./images/yolov11_f1_curve.png)  
-![YOLOv11 Precision-Recall Curve](./images/yolov11_precision_recall.png)  
 
 ---
 
